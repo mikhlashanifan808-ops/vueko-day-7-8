@@ -1,7 +1,8 @@
-dash==2.14.2
-dash-bootstrap-components==1.5.0
-plotly==5.18.0
-paho-mqtt==1.6.1
-flask==2.3.3
-pandas==2.0.3
-numpy==1.24.3
+dash
+dash-bootstrap-components
+plotly
+paho-mqtt
+flask
+pandas
+
+numpy
